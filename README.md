@@ -2,9 +2,11 @@
 
 ### Usage:
 * This game requires python3 or greater, and all the modules are given in requirements.txt
-* These modules are to be installed be following command:
-* pip install -r requirements.txt
 * Fully tested in "konsole"(open source terminal-emulator)
+
+
+* pip install -r requirements.txt
+    * For installing pip: sudo apt-get install python-pip
 * To install konsole ->  sudo apt-get install konsole
 
 The game would start in terminal(konsole) by executing the following command:
